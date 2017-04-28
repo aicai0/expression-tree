@@ -1,6 +1,6 @@
 {
   "name": "expression-tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An expression tree data struct",
   "main": "index.js",
   "scripts": {
