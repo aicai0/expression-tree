@@ -13,5 +13,13 @@
     "data"
   ],
   "author": "myl",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-river/expression-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nate-river/expression-tree/issues"
+  },
+  "homepage": "https://github.com/nate-river/expression-tree#readme"
 }
